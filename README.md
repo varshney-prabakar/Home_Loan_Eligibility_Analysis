@@ -81,16 +81,16 @@ METHODOLOGIES:
 - Examine feature coefficients to understand their impact on approval.
 - Evaluate accuracy, precision, recall, and F1-score.
 
-Logistic Regression Accuracy: XX%  
-Logistic Regression F1-Score: XX%
+Logistic Regression Accuracy: 86.18 %
+Logistic Regression F1-Score: 85 %
 
 6.	Modeling — Random Forest
 - Train Random Forest to capture non-linear relationships and interactions.
 - Check feature importance to identify key factors influencing eligibility.
 - Tune hyperparameters (n_estimators, max_depth) for improved performance.
 
-Random Forest Accuracy: YY%  
-Random Forest F1-Score: YY%
+Random Forest Accuracy: 83.14 %  
+Random Forest F1-Score: 83 %
 
 7.	Model Evaluation
 - Calculate metrics: accuracy, precision, recall, and F1-score.
