@@ -82,6 +82,7 @@ METHODOLOGIES:
 - Evaluate accuracy, precision, recall, and F1-score.
 
 Logistic Regression Accuracy: 86.18 %
+
 Logistic Regression F1-Score: 85 %
 
 6.	Modeling — Random Forest
