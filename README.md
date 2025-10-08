@@ -81,17 +81,17 @@ METHODOLOGIES:
 - Examine feature coefficients to understand their impact on approval.
 - Evaluate accuracy, precision, recall, and F1-score.
 
-Logistic Regression Accuracy: 86.18 %
+Logistic Regression Accuracy: 83.7%
 
-Logistic Regression F1-Score: 85 %
+Logistic Regression F1-Score: 89%
 
 6.	Modeling — Random Forest
 - Train Random Forest to capture non-linear relationships and interactions.
 - Check feature importance to identify key factors influencing eligibility.
 - Tune hyperparameters (n_estimators, max_depth) for improved performance.
 
-Random Forest Accuracy: 83.14 %  
-Random Forest F1-Score: 83 %
+Random Forest Accuracy: 86.1%  
+Random Forest F1-Score: 91%
 
 7.	Model Evaluation
 - Calculate metrics: accuracy, precision, recall, and F1-score.
@@ -125,6 +125,13 @@ Deliverables
 - Predictive model for home loan eligibility.
 - Visualizations and insights highlighting key factors influencing loan approvals.
 - Summary report with actionable recommendations.
+
+Conclusion
+-  The Home Loan Eligibility Analysis project successfully demonstrates how data analytics and machine learning can streamline the loan approval process for financial institutions.
+-  After collecting, cleaning, and exploring the dataset, two predictive models — Logistic Regression and Random Forest Classifier — were developed and evaluated to predict whether a loan application would be approved.
+-  The Random Forest model achieved higher accuracy and stronger recall compared to Logistic Regression, indicating better generalization and improved capability to correctly identify approved loan cases.
+-  The Random Forest model is selected as the final model due to its superior accuracy (86%) and recall (99% for approved cases).
+-  It is recommended for use in pre-screening applicants before manual evaluation, ensuring faster and more reliable loan decisions.
 
 
 
